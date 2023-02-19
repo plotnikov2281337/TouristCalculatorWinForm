@@ -1,0 +1,14 @@
+C:\Users\Ромчик\source\repos\TouristCalculatorWinForm\TouristCalculatorWinForm\obj\Debug\TouristCalculatorWinForm.csproj.AssemblyReference.cache
+C:\Users\Ромчик\source\repos\TouristCalculatorWinForm\TouristCalculatorWinForm\obj\Debug\TouristCalculatorWinForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ромчик\source\repos\TouristCalculatorWinForm\TouristCalculatorWinForm\obj\Debug\TouristCalculatorWinForm.Form1.resources
+C:\Users\Ромчик\source\repos\TouristCalculatorWinForm\TouristCalculatorWinForm\obj\Debug\TouristCalculatorWinForm.GetCityToVisit.resources
+C:\Users\Ромчик\source\repos\TouristCalculatorWinForm\TouristCalculatorWinForm\obj\Debug\TouristCalculatorWinForm.GetDepartureCity.resources
+C:\Users\Ромчик\source\repos\TouristCalculatorWinForm\TouristCalculatorWinForm\obj\Debug\TouristCalculatorWinForm.GetTripCost.resources
+C:\Users\Ромчик\source\repos\TouristCalculatorWinForm\TouristCalculatorWinForm\obj\Debug\TouristCalculatorWinForm.Properties.Resources.resources
+C:\Users\Ромчик\source\repos\TouristCalculatorWinForm\TouristCalculatorWinForm\obj\Debug\TouristCalculatorWinForm.csproj.GenerateResource.cache
+C:\Users\Ромчик\source\repos\TouristCalculatorWinForm\TouristCalculatorWinForm\obj\Debug\TouristCalculatorWinForm.csproj.CoreCompileInputs.cache
+C:\Users\Ромчик\source\repos\TouristCalculatorWinForm\TouristCalculatorWinForm\bin\Debug\TouristCalculatorWinForm.exe.config
+C:\Users\Ромчик\source\repos\TouristCalculatorWinForm\TouristCalculatorWinForm\bin\Debug\TouristCalculatorWinForm.exe
+C:\Users\Ромчик\source\repos\TouristCalculatorWinForm\TouristCalculatorWinForm\bin\Debug\TouristCalculatorWinForm.pdb
+C:\Users\Ромчик\source\repos\TouristCalculatorWinForm\TouristCalculatorWinForm\obj\Debug\TouristCalculatorWinForm.exe
+C:\Users\Ромчик\source\repos\TouristCalculatorWinForm\TouristCalculatorWinForm\obj\Debug\TouristCalculatorWinForm.pdb
