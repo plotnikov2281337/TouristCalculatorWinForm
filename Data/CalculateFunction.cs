@@ -44,22 +44,22 @@ namespace TouristCalculatorWinForm.Data
                 }
                 if (city.Name == "Ватикан")
                 {
-                    sum += totalCost * 0.5;
+                    sum += totalCost * 1.5;
                 }
                 if (city.Name == "Берлин")
                 {
-                    sum += city.Transit * 0.13;
+                    sum += city.Transit * 1.13;
                 }
                 if (city.Name == "Палермо")
                 {
                     if (departureCity == db.city5)
-                        sum += city.Transit * 0.07;
+                        sum += city.Transit * 1.07;
                     if (departureCity == db.city9)
-                        sum += city.Transit * 0.11;
+                        sum += city.Transit * 1.11;
                 }
                 if (city.Name == "Рига" && departureCity == db.city3)
                 {
-                    sum += city.Transit * 0.09;
+                    sum += city.Transit * 1.09;
                 }
                 if (city.Name == "Палермо")
                 {
@@ -67,7 +67,7 @@ namespace TouristCalculatorWinForm.Data
                 }
                 if (!isFromEU)
                 {
-                    sum += city.Transit * 0.04;
+                    sum += city.Transit * 1.04;
                 }
                 else
                 {
